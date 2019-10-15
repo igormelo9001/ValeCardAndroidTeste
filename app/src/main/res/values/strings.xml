@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ValecardAndroidTeste</string>
+    <string name="search_button">Pesquisa</string>
+    <string name="search_hint">Pesquisa por título de filme</string>
+    <string name="search_type">Filme</string>
+    <string name="default_poster">http://www.imdb.com/images/nopicture/medium/film.png</string>
+    <string name="snackbar_title_not_found">O filme que você procurou não foi encontrado</string>
+    <string name="snackbar_title_empty">Por favor digite um título de filme</string>
+    <string name="network_not_available">Internet indisponível, por favor reconecte.</string>
+    <string name="title">Título</string>
+    <string name="example_title">Wreck-It Ralph</string>
+    <string name="released">Publicado</string>
+    <string name="example_release">02 Nov 2012</string>
+    <string name="runtime">Tempo de execução</string>
+    <string name="example_runtime">101 min</string>
+    <string name="director">Diretor</string>
+    <string name="example_director">Rich Moore</string>
+    <string name="Genre">Gênero</string>
+    <string name="example_genre">Animação, Aventura, Comédia</string>
+    <string name="Writer">Escritor(s)</string>
+    <string name="example_writer">Rich Moore (história), Phil Johnston (história), Jim Reardon (história), Phil Johnston (roteiro), Jennifer Lee (roteiro), John C. Reilly (material adicional à história)</string>
+    <string name="actors">Atores</string>
+    <string name="example_actors">John C. Reilly, Sarah Silverman, Jack McBrayer, Jane Lynch</string>
+    <string name="plot">Sinopse</string>
+    <string name="example_full_plot">"Wreck-It Ralph quer ser tão amado quanto o Mocinho perfeito de seu jogo, Fix-It Felix. O problema é que ninguém ama um bandido. Mas eles amam heróis ... então, quando um jogo de tiro em primeira pessoa moderno chega com o sargento Calhoun, Ralph o vê como seu ingresso para o heroísmo e a felicidade. Ele entra no jogo com um plano simples - ganhar uma medalha - mas logo destrói tudo, e acidentalmente desencadeia um inimigo mortal que ameaça todos os jogos no fliperama. A única esperança de Ralph? Vanellope von Schweetz, um jovem "problema" problemático de um jogo de corrida de carroça revestido de doces que pode ser o único a ensinar a Ralph o que significa ser um Mocinho. Mas ele perceberá que é bom o suficiente para se tornar um herói antes que seja "Game Over" para toda a arcada?"</string>
+</resources>
